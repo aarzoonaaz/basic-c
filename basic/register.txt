@@ -1,0 +1,13 @@
+Register: Register is a collection of flipflop which is capable of storing 1 bits of informations.
+there are two types of register.
+1. General purpose register
+2. special purpose register
+
+General purpose register:
+1.accumulator
+2.base
+3.count
+4.data
+
+special purpose register:
+1.p
